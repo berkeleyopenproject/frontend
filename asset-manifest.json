@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d36c3344.css",
-    "main.js": "/static/js/main.352b783c.js",
+    "main.js": "/static/js/main.a9a645c5.js",
     "static/js/453.0a2dfd44.chunk.js": "/static/js/453.0a2dfd44.chunk.js",
     "static/media/chaerin.JPG": "/static/media/chaerin.d0e1c5989c150665619e.JPG",
     "static/media/pranav.JPG": "/static/media/pranav.99d96e01db1d5a0460cd.JPG",
@@ -88,6 +88,7 @@
     "static/media/backend15.png": "/static/media/backend15.2fe0c5b7c4c0e35ec9b0.png",
     "static/media/backend9.png": "/static/media/backend9.08e565bc092c18482820.png",
     "static/media/backend1.png": "/static/media/backend1.10298a68c7f1b6d2ac23.png",
+    "static/media/coffeechat.png": "/static/media/coffeechat.15520b978c8da5ef16d8.png",
     "static/media/backend17.png": "/static/media/backend17.9d4a86133f3bdfef2783.png",
     "static/media/backend2.png": "/static/media/backend2.56ae7c501f6d33d8fdd6.png",
     "static/media/image15.png": "/static/media/image15.cdbe621d3d258db0b503.png",
@@ -147,11 +148,11 @@
     "static/media/backend10.png": "/static/media/backend10.9e819f72c97d24fffbcf.png",
     "index.html": "/index.html",
     "main.d36c3344.css.map": "/static/css/main.d36c3344.css.map",
-    "main.352b783c.js.map": "/static/js/main.352b783c.js.map",
+    "main.a9a645c5.js.map": "/static/js/main.a9a645c5.js.map",
     "453.0a2dfd44.chunk.js.map": "/static/js/453.0a2dfd44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d36c3344.css",
-    "static/js/main.352b783c.js"
+    "static/js/main.a9a645c5.js"
   ]
 }
