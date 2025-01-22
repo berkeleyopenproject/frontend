@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.80756169.css",
-    "main.js": "/static/js/main.dd1ea2d3.js",
+    "main.js": "/static/js/main.329e69b2.js",
     "static/js/787.cf1e5eec.chunk.js": "/static/js/787.cf1e5eec.chunk.js",
     "static/media/chaerin.JPG": "/static/media/chaerin.d0e1c5989c150665619e.JPG",
     "static/media/pranav.JPG": "/static/media/pranav.99d96e01db1d5a0460cd.JPG",
     "static/media/Kerry.JPG": "/static/media/Kerry.2628e61e521546ee7069.JPG",
     "static/media/eric.JPG": "/static/media/eric.8645883b8427b23adabb.JPG",
     "static/media/Danh.JPG": "/static/media/Danh.e02b102f69ea141baf98.JPG",
-    "static/media/sia.JPG": "/static/media/sia.e54c08d6b0cdb1c43486.JPG",
     "static/media/daniel.JPG": "/static/media/daniel.d1805a4246969a0fabb1.JPG",
     "static/media/kunal.JPG": "/static/media/kunal.8fe797f6dd5c078e19c3.JPG",
     "static/media/gabriel.JPG": "/static/media/gabriel.c5a2f7b985bf51e5365d.JPG",
@@ -20,6 +19,7 @@
     "static/media/payam.JPG": "/static/media/payam.be955e0545a3134fd14e.JPG",
     "static/media/chris.JPG": "/static/media/chris.5f2d19b7f084b6d32505.JPG",
     "static/media/Brittney.JPG": "/static/media/Brittney.bb0e8289698178ef987e.JPG",
+    "static/media/sia.jpg": "/static/media/sia.d9351ad8071f51b1290b.jpg",
     "static/media/Damon.JPG": "/static/media/Damon.a32e7748ed9f480009bb.JPG",
     "static/media/website.JPG": "/static/media/website.f6fe1ad8297c2eb74130.JPG",
     "static/media/chris.webp": "/static/media/chris.af10ff831c4fb6f79f55.webp",
@@ -148,11 +148,11 @@
     "static/media/backend10.png": "/static/media/backend10.9e819f72c97d24fffbcf.png",
     "index.html": "/index.html",
     "main.80756169.css.map": "/static/css/main.80756169.css.map",
-    "main.dd1ea2d3.js.map": "/static/js/main.dd1ea2d3.js.map",
+    "main.329e69b2.js.map": "/static/js/main.329e69b2.js.map",
     "787.cf1e5eec.chunk.js.map": "/static/js/787.cf1e5eec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80756169.css",
-    "static/js/main.dd1ea2d3.js"
+    "static/js/main.329e69b2.js"
   ]
 }
